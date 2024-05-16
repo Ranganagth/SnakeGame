@@ -18,7 +18,7 @@ Welcome to the Snake Game! This classic arcade game is recreated here for your e
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ranganagth/Snake-Game.git
+   git clone https://github.com/Ranganagth/SnakeGame.git
    ```
 
 2. Navigate to the project directory:
